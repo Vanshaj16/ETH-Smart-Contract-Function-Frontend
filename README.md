@@ -5,7 +5,7 @@ This project is a simple Ethereum DApp allows users to deposit, add interest and
 
 ## Tech Stack
 #### 1. Solidity: Smart contract language used to define the contract logic.
-#### 2. Hardhat: Develpoment environment for deploying and testing Ethereum smart contracts.
+#### 2. Hardhat: Development environment for deploying and testing Ethereum smart contracts.
 #### 3. React.js: Frontend library used to build the user interface.
 #### 4. Ethers.js: Library for interacting with the Ethereum blockchain.
 #### 5. MetaMask: Browder extension for manging Ethereum accounts and signing transactions.

@@ -1,7 +1,7 @@
 # Project: Function Frontend
 
 ## Description
-This project is a simple Ethereum DAppallows users to deposit and withdraw funds, as well as add interest and deduct service charges. The project consists of a solidity smart contract, deployment scripts using Hardhat and a React frontend for interacting with the contract.
+This project is a simple Ethereum DApp allows users to deposit and withdraw funds, as well as add interest and deduct service charges. The project consists of a solidity smart contract, deployment scripts using Hardhat and a React frontend for interacting with the contract.
 
 ## Tech Stack
 #### 1. Solidity: Smart contract language used to define the contract logic.

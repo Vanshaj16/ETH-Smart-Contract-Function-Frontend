@@ -8,7 +8,7 @@ This project is a simple Ethereum DApp allows users to deposit, add interest and
 #### 2. Hardhat: Development environment for deploying and testing Ethereum smart contracts.
 #### 3. React.js: Frontend library used to build the user interface.
 #### 4. Ethers.js: Library for interacting with the Ethereum blockchain.
-#### 5. MetaMask: Browder extension for manging Ethereum accounts and signing transactions.
+#### 5. MetaMask: Browder extension for managing Ethereum accounts and signing transactions.
 
 ## Getting Started
 ### Prerequisites
